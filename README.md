@@ -1,5 +1,8 @@
 # ReduxSimpleStarter (forked)
 
+(for original fork that turned into this repo example, see [skplunkerin/ReduxSimpleStarter](https://github.com/skplunkerin/reduxSimpleStarter).)
+This repo contains no Redux, it's simply a good example of React in ES6 syntax that I felt should be it's own repo, as it stands quite well on it's own as an excellent example.
+
 This project was forked from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) repo.
 I'm not liking the limitations of `webpack`, in particular: issues with in-consistency in recognizing file changes to trigger re-transforming code, and the long wait time for it to transform code. I've found much greater success utilizing `gulp`.
 
