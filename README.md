@@ -1,6 +1,6 @@
 # ReduxSimpleStarter (forked)
 
-(for original fork that turned into this repo example, see [skplunkerin/ReduxSimpleStarter](https://github.com/skplunkerin/reduxSimpleStarter).)
+(for original fork that turned into this repo example, see [skplunkerin/reduxSimpleStarter_with_gulp](https://github.com/skplunkerin/reduxSimpleStarter_with_gulp).)
 This repo contains no Redux, it's simply a good example of React in ES6 syntax that I felt should be it's own repo, as it stands quite well on it's own as an excellent example.
 
 This project was forked from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) repo.
